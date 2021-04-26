@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.AlanBCole.GTK-Hello-World</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello</name>
+  <summary>Umm, Hello</summary>
+  <description>
+    <p>No real selling points. You probably do not want it. It jus</p>
+  </description>
+</component>
